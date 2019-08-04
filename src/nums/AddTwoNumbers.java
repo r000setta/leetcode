@@ -1,8 +1,4 @@
-import org.w3c.dom.NodeList;
-
-import javax.xml.soap.Node;
-import java.util.ArrayList;
-import java.util.List;
+package nums;
 
 public class AddTwoNumbers {
     public ListNode solution(ListNode l1,ListNode l2){

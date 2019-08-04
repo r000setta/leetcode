@@ -1,3 +1,5 @@
+package nums;
+
 public class SumOfTwo {
     public static void main(String[] args) {
 //        int[] a=new int[]{2,1,11,7,15};
